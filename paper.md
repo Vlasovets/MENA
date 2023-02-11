@@ -39,7 +39,7 @@ Our pipeline is designed to provide a streamlined and reproducible approach to p
 
 In conclusion, this pipeline provides a powerful tool for the processing and analysis of 16S rRNA microbiome data, enabling researchers to gain new insights into the microbial communities associated with different environments. The open-source nature of the pipeline also enables others to easily build upon and expand upon our work.
 
-# Discussion and/or Conclusion
+# Discussion
 
 Microbiome research is still in its infancy in the Middle Eastern and North African (MENA) region and is underrepresented in comparison to other regions. One of the major challenges in this field is the limited amount of data available, which has hindered the development of comprehensive and representative models of the microbial communities in this region.
 
